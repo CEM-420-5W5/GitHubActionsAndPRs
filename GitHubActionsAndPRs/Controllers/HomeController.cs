@@ -15,6 +15,7 @@ namespace GitHubActionsAndPRs.Controllers
 
         public IActionResult Index()
         {
+            // TEST
             return View();
         }
 
