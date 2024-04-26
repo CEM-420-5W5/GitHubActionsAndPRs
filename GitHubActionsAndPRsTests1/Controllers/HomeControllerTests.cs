@@ -14,7 +14,7 @@ namespace GitHubActionsAndPRs.Controllers.Tests
         [TestMethod()]
         public void IndexTest()
         {
-            //Assert.Fail();
+            Assert.Fail();
         }
     }
 }
