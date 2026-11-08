@@ -1,5 +1,6 @@
 namespace WebApplicationActionsAndPRs
 {
+    // Déclencher une action
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
