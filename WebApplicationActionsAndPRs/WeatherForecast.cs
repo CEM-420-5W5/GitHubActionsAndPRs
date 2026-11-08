@@ -1,6 +1,7 @@
 namespace WebApplicationActionsAndPRs
 {
     // Déclencher une action
+    // Etre bloquer pour faire le push!
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
